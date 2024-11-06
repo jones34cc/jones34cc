@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **FullStack, Ml** and preparing for **compTIA A+** and **compTIA Network +**
+ 🌱 I’m currently learning **FullStack, Ml** and preparing for **compTIA security+**.**Devops i am gunning for u lull** 
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/jones34cc/jones34cc/issues)**
 
