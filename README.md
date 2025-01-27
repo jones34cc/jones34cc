@@ -1,11 +1,14 @@
-[![MasterHead](https://giffiles.alphacoders.com/218/218740.gif)](https://giffiles.alphacoders.com/218/218740.gif)
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/218/218740.gif" alt="MasterHead" width="100%" style="border-radius: 15px;"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Satyabrata Das</h1>
 <h3 align="center">A Passionate Learner from India</h3>
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif" alt="Second GIF" width="800"/>
+  <img src="https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif" alt="Second GIF" width="800" style="margin-top: 10px; border-radius: 10px;"/>
 </div>
 
 ---
@@ -84,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jones34cc&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jones34cc&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
