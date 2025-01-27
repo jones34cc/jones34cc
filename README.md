@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/218/218740.gif" alt="MasterHead" width="100%" style="border-radius: 15px;"/>
+  <img src="https://github.com/jones34cc/jones34cc/blob/main/218741.gif" alt="logo" style="width: 800px; height: 200px; object-fit: cover; border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Satyabrata Das</h1>
@@ -10,7 +10,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif" alt="Second GIF" width="800" style="margin-top: 10px; border-radius: 10px;"/>
 </div>
-
 ---
 
 <p align="center">
