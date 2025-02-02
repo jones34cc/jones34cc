@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Satyabrata Das</h1>
 <h3 align="center">A Passionate Learner from India</h3>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <div align="center">
   <img src="https://github.com/jones34cc/jones34cc/blob/main/League%20Of%20Legends%20Lol%20GIF%20by%20FaZe%20Clan.gif" alt="Second GIF" width="800" style="margin-top: 10px; border-radius: 10px;"/>
@@ -30,7 +32,9 @@
 - 📫 **Reach me at**: chambergggg@gmail.com  
 - ⚡ **Fun fact**: Self-learning keeps me energized!  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ### 🚀 Languages and Tools:
 <p align="center">
@@ -78,7 +82,9 @@
   </a>
 </p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ### 📊 GitHub Stats:
 <p align="center">
