@@ -12,7 +12,10 @@
 <div align="center">
   <img src="https://github.com/jones34cc/jones34cc/blob/main/League%20Of%20Legends%20Lol%20GIF%20by%20FaZe%20Clan.gif" alt="Second GIF" width="800" style="margin-top: 10px; border-radius: 10px;"/>
 </div>
----
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jones34cc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -24,7 +27,9 @@
   </a>
 </p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ### 👨‍💻 About Me:
 - 🔭 **Currently working on**: [Competitive Game Management System (CGMS)](https://github.com/jones34cc/CGMS-Compititive-Game-Management-System-)  
