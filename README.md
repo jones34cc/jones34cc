@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 **Currently working on**: [Competitive Game Management System (CGMS)](https://github.com/jones34cc/CGMS-Compititive-Game-Management-System-)  
-- 🌱 **Learning**: React Native, German, Machine Learning  
+- 🌱 **Learning**: React  , German, Machine Learning  
 - 📫 **Reach me at**: chambergggg@gmail.com  
 - ⚡ **Fun fact**: Self-learning keeps me energized!  
 
