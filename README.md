@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif" alt="Second GIF" width="800" style="margin-top: 10px; border-radius: 10px;"/>
+  <img src="https://github.com/jones34cc/jones34cc/blob/main/League%20Of%20Legends%20Lol%20GIF%20by%20FaZe%20Clan.gif" alt="Second GIF" width="800" style="margin-top: 10px; border-radius: 10px;"/>
 </div>
 ---
 
