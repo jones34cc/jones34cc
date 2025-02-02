@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jones34cc/jones34cc/blob/main/reyna.gif" alt="logo" style="width: 800px; height: 200px; object-fit: cover; border-radius: 10px;" />
+  <img src="https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif" alt="logo" style="width: 800px; height: 200px; object-fit: cover; border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Satyabrata Das</h1>
