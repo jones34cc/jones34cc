@@ -81,6 +81,10 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+  <img src="https://www.zaproxy.org/img/logos/burp-logo.png" alt="Burp Suite" width="40" height="40" />
+  </a>
+
 </p>
 
 <p align="left">
