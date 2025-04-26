@@ -82,8 +82,9 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-  <img src="https://www.zaproxy.org/img/logos/burp-logo.png" alt="Burp Suite" width="40" height="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite" width="40" height="40" />
+</a>
+
 
 </p>
 
