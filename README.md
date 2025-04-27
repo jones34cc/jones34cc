@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Satyabrata Das</h1>
-<h3 align="center">A Passionate Learner from India</h3>
+<h3 align="center">Backend Devloper and pentester from India</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
