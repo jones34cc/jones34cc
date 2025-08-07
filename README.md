@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Satyabrata Das</h1>
-<h3 align="center">Backend Devloper and pentester from India</h3>
+<h3 align="center">FullStack Engineer</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -27,9 +27,8 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-### 👨‍💻 About Me:
-- 🔭 **Currently working on**: [Competitive Game Management System (CGMS)](https://github.com/jones34cc/CGMS-Compititive-Game-Management-System-)  
-- 🌱 **Learning**: React  , German, Machine Learning  
+### 👨‍💻 About Me:  
+- 🌱 **Learning**: React  , German
 - 📫 **Reach me at**: chambergggg@gmail.com  
 - ⚡ **Fun fact**: Self-learning keeps me energized!  
 
@@ -81,6 +80,8 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  
+   
 
 
 
